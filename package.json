@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
